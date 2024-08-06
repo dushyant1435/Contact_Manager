@@ -3,7 +3,7 @@
 #include<string>
 #include<vector>
 #include<set>
-using namespace std;
+using namespace std; 
 
 class TrieNodeForNumber
 {
